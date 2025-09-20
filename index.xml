@@ -69,7 +69,7 @@
       <link>/thanks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/thanks/</guid>
-      <description>&lt;p&gt;Thanks! — your message was sent.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Thanks — your message was sent successfully   &amp;#x1f4ee;&lt;/p&gt;&#xA;&lt;hr&gt;</description>
     </item>
   </channel>
 </rss>
