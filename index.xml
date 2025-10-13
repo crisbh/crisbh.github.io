@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dr. Cristian Barrera Hinojosa</title>
-    <link>/</link>
+    <link>//localhost:52591/</link>
     <description>Recent content on Dr. Cristian Barrera Hinojosa</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 21 Dec 2024 13:13:48 -0300</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:52591/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Teaching</title>
-      <link>/teaching/</link>
+      <link>//localhost:52591/teaching/</link>
       <pubDate>Sat, 21 Dec 2024 13:13:48 -0300</pubDate>
-      <guid>/teaching/</guid>
+      <guid>//localhost:52591/teaching/</guid>
       <description>&lt;p&gt;Lectures at IFA-UV (some given multiple times):&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://crisbh.github.io/numerical-relativity-intro/&#34;&gt;Introduction to Numerical Relativity&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://crisbh.github.io/intro_menciones_II/clases.html#/&#34;&gt;Introduction to Scientific Computing II&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://crisbh.github.io/intro_menciones/clases.html#/&#34;&gt;Introduction to Scientific Computing I&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;UNIX and C Programming&lt;/li&gt;&#xA;&lt;li&gt;Numerical Methods&lt;/li&gt;&#xA;&lt;li&gt;Modern Physics&lt;/li&gt;&#xA;&lt;li&gt;Newtonian Mechanics&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Software</title>
-      <link>/software/</link>
+      <link>//localhost:52591/software/</link>
       <pubDate>Sat, 21 Dec 2024 12:33:31 -0300</pubDate>
-      <guid>/software/</guid>
+      <guid>//localhost:52591/software/</guid>
       <description>&lt;p&gt;Scientific software I have contributed to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/crisbh/gramses&#34;&gt;GRAMSES &amp;ndash; Relativistic N-body simulations&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://hpcsoftware.pages.gitlab.lrz.de/Peano/da/dce/tutorials_exahype2_applications_exagrype.html&#34;&gt;ExaGRyPE &amp;ndash; Numerical Relativity simulations&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://hpcsoftware.pages.gitlab.lrz.de/Peano/d6/dba/page_swift2_home.html&#34;&gt;SWIFT-2 &amp;ndash; Smoothed Particle Hydrodynamics simulations&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Talks</title>
-      <link>/talks/</link>
+      <link>//localhost:52591/talks/</link>
       <pubDate>Fri, 20 Dec 2024 21:25:52 -0300</pubDate>
-      <guid>/talks/</guid>
+      <guid>//localhost:52591/talks/</guid>
       <description>&lt;p&gt;&amp;#x26a0;&amp;#xfe0f; Site under construction &amp;#x26a0;&amp;#xfe0f;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Research</title>
-      <link>/research/</link>
+      <link>//localhost:52591/research/</link>
       <pubDate>Fri, 20 Dec 2024 17:23:11 -0300</pubDate>
-      <guid>/research/</guid>
+      <guid>//localhost:52591/research/</guid>
       <description>&lt;p&gt;&amp;#x26a0;&amp;#xfe0f; Site under construction &amp;#x26a0;&amp;#xfe0f;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Publications</title>
-      <link>/publications/</link>
+      <link>//localhost:52591/publications/</link>
       <pubDate>Fri, 20 Dec 2024 17:23:01 -0300</pubDate>
-      <guid>/publications/</guid>
+      <guid>//localhost:52591/publications/</guid>
       <description>&lt;p&gt;My papers on cosmology, astrophysics, general relativity and computer science, can be found on the &lt;a href=&#34;https://arxiv.org/search/?query=%22Barrera-Hinojosa%22&amp;amp;searchtype=author&amp;amp;abstracts=show&amp;amp;order=-announced_date_first&amp;amp;size=50&#34;&gt;arXiv&lt;/a&gt;. You can also check my &lt;a href=&#34;https://scholar.google.com/citations?user=IaJjubwAAAAJ&#34;&gt;Google Scholar profile&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CV</title>
-      <link>/cv/</link>
+      <link>//localhost:52591/cv/</link>
       <pubDate>Fri, 20 Dec 2024 17:21:39 -0300</pubDate>
-      <guid>/cv/</guid>
+      <guid>//localhost:52591/cv/</guid>
       <description>&lt;p&gt;You can find a (hopefully) up-to-date CV here:&lt;/p&gt;&#xA;&lt;p&gt;&amp;#x26a0;&amp;#xfe0f; Site under construction &amp;#x26a0;&amp;#xfe0f;&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>//localhost:52591/about/</link>
       <pubDate>Thu, 19 Dec 2024 18:12:03 -0300</pubDate>
-      <guid>/about/</guid>
-      <description>&lt;p&gt;I am junior faculty at the Institute of Physics and Astronomy (IFA) of Universidad de Valparaíso, Chile.&lt;/p&gt;&#xA;&lt;p&gt;I am interested in developing computational tools for scientific applications, particularly for cosmology and astrophysics. Currently, I contribute to the development of the &lt;a href=&#34;https://hpcsoftware.pages.gitlab.lrz.de/Peano/da/dce/tutorials_exahype2_applications_exagrype.html&#34;&gt;ExaGRyPE&lt;/a&gt; and &lt;a href=&#34;https://github.com/crisbh/gramses&#34;&gt;GRAMSES&lt;/a&gt; simulation codes, and apply them to investigate general-relativistic effects. I also lecture and mentor Physics students, specially undergrads majoring in Scientific Computing at IFA-UV.&lt;/p&gt;&#xA;&lt;p&gt;I was previously a postdoctoral researcher at the Department of Computer Science of the University of Durham, United Kingdom. I did my PhD at the Institute for Computational Cosmology at the University of Durham.&lt;/p&gt;</description>
+      <guid>//localhost:52591/about/</guid>
+      <description>&lt;p&gt;I am junior faculty at the Institute of Physics and Astronomy (IFA) of Universidad de Valparaíso, Chile.&lt;/p&gt;&#xA;&lt;p&gt;I am interested in developing computational tools for scientific applications, particularly for cosmology and astrophysics. Currently, I contribute to the development of the &lt;a href=&#34;https://hpcsoftware.pages.gitlab.lrz.de/Peano/da/dce/tutorials_exahype2_applications_exagrype.html&#34;&gt;ExaGRyPE&lt;/a&gt; and &lt;a href=&#34;https://github.com/crisbh/gramses&#34;&gt;GRAMSES&lt;/a&gt; simulation codes, and apply them to investigate general-relativistic effects. I also lecture and mentor Physics students, specially undergrads minoring in Scientific Computing at IFA-UV.&lt;/p&gt;&#xA;&lt;p&gt;I was previously a postdoctoral researcher at the Department of Computer Science of the University of Durham, United Kingdom. I did my PhD at the Institute for Computational Cosmology at the University of Durham.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Direct Message</title>
-      <link>/contact/</link>
+      <link>//localhost:52591/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/contact/</guid>
+      <guid>//localhost:52591/contact/</guid>
       <description>&lt;form action=&#34;https://formsubmit.co/66b692c5ba5a8f49dbdd79605ffceb74&#34; method=&#34;POST&#34; class=&#34;contact-form&#34;&gt;&#xA;  &lt;div class=&#34;form-group&#34;&gt;&#xA;    &lt;div class=&#34;form-row&#34;&gt;&#xA;      &lt;div class=&#34;col&#34;&gt;&#xA;        &lt;input type=&#34;text&#34; name=&#34;_honey&#34; class=&#34;form-control&#34; placeholder=&#34;Name&#34; required&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;div class=&#34;col&#34;&gt;&#xA;        &lt;input type=&#34;email&#34; name=&#34;email&#34; class=&#34;form-control&#34; placeholder=&#34;Email Address&#34; required&gt;&#xA;        &lt;input type=&#34;text&#34; name=&#34;_honey&#34; style=&#34;display:none&#34; tabindex=&#34;-1&#34; autocomplete=&#34;off&#34;&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div class=&#34;form-group&#34;&gt;&#xA;    &lt;textarea placeholder=&#34;Your Message&#34; class=&#34;form-control&#34; name=&#34;message&#34; rows=&#34;10&#34; required&gt;&lt;/textarea&gt;&#xA;    &lt;input type=&#34;hidden&#34; name=&#34;_next&#34; value=&#34;https://crisbh.github.io/thanks/&#34;&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;button type=&#34;submit&#34; class=&#34;btn btn-lg btn-dark btn-block&#34;&gt;Send Message&lt;/button&gt;&#xA;&lt;/form&gt;</description>
     </item>
     <item>
       <title>Thanks!</title>
-      <link>/thanks/</link>
+      <link>//localhost:52591/thanks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/thanks/</guid>
+      <guid>//localhost:52591/thanks/</guid>
       <description>&lt;p&gt;Thanks — your message was sent successfully   &amp;#x1f4ee;&lt;/p&gt;&#xA;&lt;hr&gt;</description>
     </item>
   </channel>
