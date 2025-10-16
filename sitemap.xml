@@ -2,36 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:52591/</loc>
+    <loc>/</loc>
     <lastmod>2024-12-21T13:13:48-03:00</lastmod>
   </url><url>
-    <loc>//localhost:52591/teaching/</loc>
+    <loc>/teaching/</loc>
     <lastmod>2024-12-21T13:13:48-03:00</lastmod>
   </url><url>
-    <loc>//localhost:52591/software/</loc>
+    <loc>/software/</loc>
     <lastmod>2024-12-21T12:33:31-03:00</lastmod>
   </url><url>
-    <loc>//localhost:52591/talks/</loc>
+    <loc>/talks/</loc>
     <lastmod>2024-12-20T21:25:52-03:00</lastmod>
   </url><url>
-    <loc>//localhost:52591/research/</loc>
+    <loc>/research/</loc>
     <lastmod>2024-12-20T17:23:11-03:00</lastmod>
   </url><url>
-    <loc>//localhost:52591/publications/</loc>
+    <loc>/publications/</loc>
     <lastmod>2024-12-20T17:23:01-03:00</lastmod>
   </url><url>
-    <loc>//localhost:52591/cv/</loc>
+    <loc>/cv/</loc>
     <lastmod>2024-12-20T17:21:39-03:00</lastmod>
   </url><url>
-    <loc>//localhost:52591/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2024-12-19T18:12:03-03:00</lastmod>
   </url><url>
-    <loc>//localhost:52591/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>//localhost:52591/contact/</loc>
+    <loc>/contact/</loc>
   </url><url>
-    <loc>//localhost:52591/tags/</loc>
+    <loc>/tags/</loc>
   </url><url>
-    <loc>//localhost:52591/thanks/</loc>
+    <loc>/thanks/</loc>
   </url>
 </urlset>
